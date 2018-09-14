@@ -29,5 +29,6 @@ public class tesInheritance{
         c.moveSuper();
 
         System.out.println(c instanceof Animal);
+        System.out.print("");
     }
 }
